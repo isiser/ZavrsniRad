@@ -7,6 +7,6 @@
 
 It's not using fingerprint scanner. Working on principle to upload image of fingerprint. Tested with public database of fingerprints.
 
-## Face recognition authentication
+### Face recognition authentication
 
 Requires camera. 
